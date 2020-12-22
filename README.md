@@ -5,3 +5,7 @@ The Matlab code in the folder "how_many_neurons" demonstrates the influence of t
 The output of the network is the fracture stress of a graphene sample under the 4 input conditions. 
 
  <img src="how_many_neurons/output.png" width="500">
+ 
+ The MATLAB code in the folder “predicting_fracture_stress” can be used to compute the fracture stress of graphene samples using a pre-trained neural network and to plot the following figure, which is a part of Fig. 13 in Dewapriya et al. Carbon, vol. 163, 2020, pp. 425-440.
+ 
+  <img src="predicting_fracture_stress/comparison.png" width="450">
