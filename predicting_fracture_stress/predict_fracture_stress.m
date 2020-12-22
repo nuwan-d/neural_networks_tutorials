@@ -1,7 +1,7 @@
 %% Nuwan Dewapriya
 %% 2020/12/22
 %% Compute the fracture stress of graphene samples using a pre-trained neural network.
-%% Plot a figure, which is a part of Fig. 13 in results in Dewapriya et al. Carbon, vol. 163, 2020, pp. 425-440.
+%% Plot a figure, which is a part of Fig. 13 in Dewapriya et al. Carbon, vol. 163, 2020, pp. 425-440.
 %% Inputs are the temperature and vacancy concentration. 
 
 close all;
