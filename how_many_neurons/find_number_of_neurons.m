@@ -1,7 +1,7 @@
 %% Nuwan Dewapriya
 %% 2020/12/21
 %% This code demonstrates the influence of the number of hidden neurons on the performance of a neural network. 
-%% Inputs are the (1) temperature, (2) vacancy concentration, (3) directional constant, and (4) strain rate. 
+%% Inputs are the (1) temperature, (2) vacancy concentration, (3) directional constant (related to the loading direction), and (4) strain rate. 
 %% The output is the fracture stress of a graphene sample under the 4 input conditions. 
 
 clear all
